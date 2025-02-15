@@ -10,8 +10,8 @@ Valentine Days App es una aplicación de escritorio sencilla y encantadora cread
 - Desarrollada con Java y la librería **JLayer** para la reproducción de audio.
 
 ## Capturas de Pantalla
+![ValentineDaysApp](https://github.com/user-attachments/assets/e5594490-1480-434d-a92b-9443b0abdf67)
 
-![Captura de pantalla de la app](ruta/a/la/imagen.png)
 
 ## Requisitos
 
